@@ -7,8 +7,7 @@
 <h3 align="center">A passionate web developer from India </h3>
 
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandhata001" alt="mandhata001" /></a> </p>
-<br/>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mandhata-pathak/" target="_blank">
@@ -58,5 +57,7 @@
 <br/><br/>
 
 <hr/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandhata001" alt="mandhata001" /></a> 
+</p>
 
 <br/>
