@@ -57,15 +57,15 @@
 
 
 <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mandhata001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mandhata001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"/>
+</div>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mandhata001&show_icons=true&locale=en" alt="mandhata001" /></p>
 
 <br/>
 
 <hr/>
-<p align="centre"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mandhata001&show_icons=true&locale=en&layout=compact" alt="mandhata001" /></p>
-<br/>
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandhata001" alt="mandhata001" /></a> 
 </p>
 
