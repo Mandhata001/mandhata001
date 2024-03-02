@@ -7,6 +7,7 @@
 </h1>
 
 <h3 align="center">A passionate web developer from India </h3>
+<hr/>
 
 <br/>
 
@@ -66,7 +67,4 @@
 <br/>
 
 <hr/>
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandhata001" alt="mandhata001" /></a> 
-</p>
 
-<br/>
