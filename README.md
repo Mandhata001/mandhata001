@@ -5,9 +5,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mandhata+Pathak!;" />
 </h1>
+<hr/>
 
 <h3 align="center">A passionate web developer from India </h3>
-<hr/>
+
 
 <br/>
 
@@ -59,7 +60,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandhata001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mandhata001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mandhata001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
