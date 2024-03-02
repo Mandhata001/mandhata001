@@ -64,8 +64,9 @@
 <br/>
 
 <hr/>
+<p align="centre"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mandhata001&show_icons=true&locale=en&layout=compact" alt="mandhata001" /></p>
+<br/>
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandhata001" alt="mandhata001" /></a> 
 </p>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandhata001&show_icons=true&locale=en&layout=compact" alt="mandhata001" /></p>
 
 <br/>
